@@ -1,0 +1,1 @@
+This repository contains my solutions to the assignments for the [Learn Multithreading with Modern C++](https://www.udemy.com/course/learn-modern-cplusplus-concurrency/) course by James Raynard on Udemy.
