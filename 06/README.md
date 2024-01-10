@@ -1,4 +1,9 @@
-Example result:
+### Task
+
+Create a consumer and producer threads, the former accepting
+a `std::future` and the latter accepting and setting a `std::promise`.
+
+### Example result
 
 ```
 starting

@@ -1,3 +1,9 @@
+### Task
+
+Create multiple threads which increment the same global variable. Observe
+the results and explain why some the final result is not as expected for
+a single thread program.
+
 ### Example output
 
 ```
